@@ -27,7 +27,7 @@ Building scalable web apps and shipping features that matter. Currently contribu
 
 - ✅ 117+ contributions in the last year
 - ✅ Authored PRs with 2,000+ lines changed in production repos
-- ✅ Active open-source contributor at RiggleTech
+- ✅ Active contributor at RiggleTech
 
 ---
 
